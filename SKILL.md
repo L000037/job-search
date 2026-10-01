@@ -1,6 +1,6 @@
 ---
 name: job-search
-description: End-to-end job matching. Parse an uploaded resume (Word/PDF) into a structured Markdown candidate profile, then after the user gives recruiting URLs and target job types, scrape each site, open every JD, and rank jobs by match degree and success probability. Use when a user shares a resume or asks which jobs/internships they should apply for on recruiting sites. Do not use for unrelated web research or general career Q&A without a resume.
+description: 端到端求职匹配，解析上传的简历（Word/PDF）生成结构化候选人画像，再根据用户给出的招聘网址和目标岗位类型抓取岗位、逐条阅读JD并按匹配度与成功率综合排序。当用户上传简历，或询问招聘网站上有哪些岗位/实习可以投递时使用；没有简历的泛职业咨询不要使用。
 ---
 
 # 简历画像 → 岗位侦察综合排序（通用）
